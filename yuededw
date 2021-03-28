@@ -88,7 +88,6 @@ rules:
  - DOMAIN-SUFFIX,acompli.net,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,aka.ms,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,akadns.net,Ⓜ️ 微软服务
- - DOMAIN-SUFFIX,aspnetcdn.com,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,assets-yammer.com,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,azure.com,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,azure.net,Ⓜ️ 微软服务
